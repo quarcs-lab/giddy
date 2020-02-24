@@ -25,6 +25,18 @@ Documentation
 Online documentation is available [here](https://giddy.readthedocs.io).
 
 
+Path
+----
+
+cd /Users/Carlos/GitHub/giddy
+
+
+Mac Environment
+-------------
+
+source activate pysalworkshop
+
+
 Features
 --------
 - Directional LISA, inference and visualization as rose diagram
